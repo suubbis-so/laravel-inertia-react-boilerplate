@@ -1,0 +1,17 @@
+{
+    "preset": "laravel",
+    "rules": {
+        "align_multiline_comment": true,
+        "return_type_declaration": true,
+        "array_indentation": true,
+        "declare_strict_types": true,
+        "no_useless_return": true,
+        "return_assignment": true,
+        "simplified_if_return": true,
+        "simplified_null_return": true,
+        "strict_comparison": true,
+        "trailing_comma_in_multiline": {
+            "elements": ["arrays"]
+        }
+    }
+}

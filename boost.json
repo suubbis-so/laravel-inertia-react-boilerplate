@@ -1,0 +1,24 @@
+{
+    "agents": [
+        "cursor"
+    ],
+    "guidelines": true,
+    "herd_mcp": true,
+    "mcp": true,
+    "packages": [
+        "spatie/laravel-medialibrary",
+        "laravel/fortify",
+        "spatie/laravel-permission",
+        "saloonphp/laravel-plugin"
+    ],
+    "sail": false,
+    "skills": [
+        "wayfinder-development",
+        "pest-testing",
+        "inertia-react-development",
+        "tailwindcss-development",
+        "developing-with-fortify",
+        "medialibrary-development",
+        "laravel-permission-development"
+    ]
+}
